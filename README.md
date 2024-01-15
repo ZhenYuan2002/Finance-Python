@@ -8,7 +8,7 @@ IDEAS:
 4) Compound interest calculator
 5) Depreciation calculator
 6) Compound interest calculator
-
+7) Currency conversion calculator that tells you how much the price is compared to your target country
 just like how binary is the language of computers, accounting is undoubtly the language of finance, and i have a strong desire to understand every technicality regarding it
 
 
