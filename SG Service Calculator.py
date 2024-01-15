@@ -1,17 +1,5 @@
-#Global GST and Service Charge calculator
-#Identify the countriey user is from
-#Import their currency symbol
-#Step 1: Identify the subtotal in their respective currencies
-#Step 2: Input GST rate(%)
-#Step 3: Input Service charge rate(%)
-#Step 4: Return total with GST added only
-#Step 5: Return total with Service charge only
-#Step 6: Return total with GST and Service Charge
-#Step 7: Allows you to split the bill evenly
-#gst, servicecharge, gst and subtotal, service charge and subtotal, gst and service charge and subtotal,
-#SERVICE CHARGE IS SUBJECTIBLE TO GST, subtotal plus service charge first, then total + (subtotal + gst)
-#Tip Calculator
-#Banker Roulette
+#This is a calculator you can use to calculate GST, Service Charge, Tips
+#There are also options to split the bill or to choose someone random to foot the bill
 
 print('''Hi! Welcome to the GST and Service Charge calculator!
  Before we start, please input the country of the currency that you are paying in.
@@ -100,6 +88,20 @@ elif number == 6:
     if random_integer == x:
         print(names[int(x)] + ' is going to buy the meal today!')
 
+#Global GST and Service Charge calculator
+#Identify the countriey user is from
+#Import their currency symbol
+#Step 1: Identify the subtotal in their respective currencies
+#Step 2: Input GST rate(%)
+#Step 3: Input Service charge rate(%)
+#Step 4: Return total with GST added only
+#Step 5: Return total with Service charge only
+#Step 6: Return total with GST and Service Charge
+#Step 7: Allows you to split the bill evenly
+#gst, servicecharge, gst and subtotal, service charge and subtotal, gst and service charge and subtotal,
+#SERVICE CHARGE IS SUBJECTIBLE TO GST, subtotal plus service charge first, then total + (subtotal + gst)
+#Tip Calculator
+#Banker Roulette
 
 #Calculations Used
 #_gst = subtotal * ((gst/100))
