@@ -2,9 +2,9 @@
 Python projects relating to Accounting, Finance and Data Analysis
 
 IDEAS:
-1) Global GST and Service Charge calculator(Option to split the bill)
-2) Real time currency tracker
-3) Tax calculator
+1) Singapore GST and Service Charge calculator(Option to split the bill)
+2) Singapore Comprehensive Income Tax calculator
+3) Real time currency tracker
 4) Compound interest calculator
 5) Depreciation calculator
 6) Compound interest calculator
