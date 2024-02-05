@@ -1,21 +1,10 @@
 # Finance-Python
 Python projects relating to Accounting, Finance and Data Analysis
-IDEAS:
+
 
 
 1) Singapore GST and Service Charge calculator(Option to split the bill)
-
-
-
-
-
-2) Tax Relief Eligibility Assessment ( For Singaporeans and Permanent Resisdents ONLY )
-- There are 14 tax relief files inside the folder
-- Allow users to check whether they are eligible to claim the various tax reliefs and how much they are able to claim
-- The file 'Collate Total' shows user the total tax relief they can claim
-
-# Procedural Programming Paradigm format made up of mainly if statements, for loops and while loops, as well as some functions and classes
-# Coded in pep8 format
+2) Tax Relief Eligibility Assessment 
 
 
 
