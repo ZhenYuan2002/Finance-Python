@@ -1,12 +1,14 @@
 # Finance-Python
-Python projects relating to Accounting, Finance and Data Analysis
+Python projects focused on Accounting, Finance, and Data Analytics.
 
+## Projects
+1. **Singapore GST & Service Charge Calculator**  
+   - Computes Goods and Services Tax (GST) and service charges for bills.  
+   - Includes functionality to split bills among multiple payers.  
 
-
-1) Singapore GST and Service Charge calculator(Option to split the bill)
-2) Tax Relief Eligibility Assessment 
-
-
+2. **Tax Relief Eligibility Assessment**  
+   - Evaluates individual eligibility for various tax relief schemes.  
+   - Provides structured outputs to support financial planning and compliance.  
 
 
 
